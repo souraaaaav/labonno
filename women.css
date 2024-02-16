@@ -1,0 +1,18 @@
+#hold_image{
+    width: 40%;
+}
+
+#product-card-flex{
+    display: flex;
+    flex-direction: column;
+}
+
+#product-desc,
+#product-add-to-cart{
+    width: 40%;
+}
+
+#main-product-wrap{
+    display: flex;
+    flex-direction: row;
+}
